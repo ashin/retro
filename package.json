@@ -1,0 +1,19 @@
+{
+  "name": "retro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "sku start",
+    "test": "sku test",
+    "build": "sku build",
+    "lint": "sku lint",
+    "format": "sku format"
+  },
+  "dependencies": {
+    "react": "16.3.0",
+    "react-dom": "16.3.0",
+    "react-helmet": "5.2.0",
+    "seek-style-guide": "34.4.1",
+    "sku": "3.11.0"
+  }
+}
